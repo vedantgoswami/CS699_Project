@@ -39,3 +39,7 @@ for boxe in box:
 				LI.append(a.getText())					
 			Battery.append(LI)
 
+print(Performance[0])
+print(Display[0])
+print(Camera[0])
+print(Battery[0])
