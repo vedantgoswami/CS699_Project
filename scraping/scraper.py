@@ -20,7 +20,7 @@ for desc in box_img:
 		src_value = desc.get('src')
 	else :
 		src_value = desc.get('data-src')	
-	ImageLink.append(src_value.replace('//',''))
+	ImageLink.append(src_value.replace('//','').replace('medium-1.jpg','medium-2.jpg'))
 
 
 #-----------------Phone-Name--------------------------#
@@ -38,7 +38,7 @@ for x in box_pn :
 #-----------------Price-----------------------------#
 
 box_pr = soup.find_all(class_="price price_padding")
-price = [ x.getText() for x in box_pr ]
+price = [ x.getText().replace('Rs','').replace(',','').replace('.','') for x in box_pr ]
 
 
 #-----------------Expert Comment---------------------#
@@ -65,23 +65,35 @@ for boxe in box_sc:
 		if 'Performance' in ans:
 			LI=[]
 			for a in x.find_all("label"):
-				LI.append(a.getText())
-			Performance.append(LI)
+				LI.append(a.getText())		
+			ans=""
+			for i in LI:
+		        	ans= ans + i +'\n'
+			Performance.append(ans)
 		if 'Display' in ans:
 			LI=[]
 			for a in x.find_all("label"):
 				LI.append(a.getText())
-			Display.append(LI)	
+			ans=""
+			for i in LI:
+				ans= ans + i +'\n'				
+			Display.append(ans)	
 		if 'Camera' in ans:
 			LI=[]
 			for a in x.find_all("label"):
 				LI.append(a.getText())
-			Camera.append(LI)	
+			ans=""
+			for i in LI :
+		        	ans= ans + i +'\n'				
+			Camera.append(ans)	
 		if 'Battery' in ans:
 			LI=[]
 			for a in x.find_all("label"):
-				LI.append(a.getText())					
-			Battery.append(LI)
+				LI.append(a.getText())
+			ans=""
+			for i in LI :
+		        	ans= ans + i +'\n'									
+			Battery.append(ans)
 
 
 merged_data = list(zip(phoneName, ImageLink, price, ExpertComment,Performance, Display, Camera, Battery))

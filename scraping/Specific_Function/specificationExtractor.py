@@ -21,25 +21,37 @@ for boxe in box:
 		if 'Performance' in ans:
 			LI=[]
 			for a in x.find_all("label"):
-				LI.append(a.getText())
-			Performance.append(LI)
+				LI.append(a.getText())		
+			ans=""
+			for i in LI:
+		        	ans= ans + i +'\n'
+			Performance.append(ans)
 		if 'Display' in ans:
 			LI=[]
 			for a in x.find_all("label"):
 				LI.append(a.getText())
-			Display.append(LI)	
+			ans=""
+			for i in LI:
+				ans= ans + i +'\n'				
+			Display.append(ans)	
 		if 'Camera' in ans:
 			LI=[]
 			for a in x.find_all("label"):
 				LI.append(a.getText())
-			Camera.append(LI)	
+			ans=""
+			for i in LI :
+		        	ans= ans + i +'\n'				
+			Camera.append(ans)	
 		if 'Battery' in ans:
 			LI=[]
 			for a in x.find_all("label"):
-				LI.append(a.getText())					
-			Battery.append(LI)
+				LI.append(a.getText())
+			ans=""
+			for i in LI :
+		        	ans= ans + i +'\n'									
+			Battery.append(ans)
 
-print(Performance[0])
+print(Performance)
 print(Display[0])
 print(Camera[0])
 print(Battery[0])
