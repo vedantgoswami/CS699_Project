@@ -16,12 +16,14 @@ ImageLink=[]
 box_img = soup.find_all(class_="finder_pro_image fimage gaclick")
 
 for desc in box_img:
+	img=[]
 	if desc.get('src')!= None:
 		src_value = desc.get('src')
 	else :
-		src_value = desc.get('data-src')	
-	ImageLink.append(src_value.replace('//','').replace('medium-1.jpg','medium-2.jpg'))
-
+		src_value = desc.get('data-src')
+	img.append(src_value.replace('//',''))	
+	img.append(src_value.replace('//','').replace('medium-1.jpg?tr=q-80','hres-2.jpg'))
+	ImageLink.append(img)
 
 #-----------------Phone-Name--------------------------#
 
