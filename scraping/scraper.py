@@ -11,7 +11,8 @@ soup = BeautifulSoup(res.text,'html.parser')
 title = soup.title.string
 
 #-----------------Phone-Image--------------------------#
-ImageLink=[]
+ImageLink1=[]
+ImageLink2=[]
 
 box_img = soup.find_all(class_="finder_pro_image fimage gaclick")
 
@@ -21,10 +22,9 @@ for desc in box_img:
 		src_value = desc.get('src')
 	else :
 		src_value = desc.get('data-src')
-	img.append(src_value.replace('//',''))	
-	img.append(src_value.replace('//','').replace('medium-1.jpg?tr=q-80','hres-2.jpg'))
-	ImageLink.append(img)
-
+	ImageLink1.append(src_value.replace('//',''))	
+	ImageLink2.append(src_value.replace('//','').replace('medium-1.jpg?tr=q-80','hres-2.jpg'))
+	
 #-----------------Phone-Name--------------------------#
 
 box_pn = soup.find_all(class_="filter-grey-bar")
@@ -98,7 +98,7 @@ for boxe in box_sc:
 			Battery.append(ans)
 
 
-merged_data = list(zip(phoneName, ImageLink, price, ExpertComment,Performance, Display, Camera, Battery))
+merged_data = list(zip(phoneName, ImageLink1, ImageLink2, price, ExpertComment,Performance, Display, Camera, Battery))
 
 csv_file_name = f"{title}.csv"
 
@@ -106,7 +106,7 @@ with open(csv_file_name, 'w', newline='', encoding='utf-8') as csvfile:
     csv_writer = csv.writer(csvfile)
     
     # Write header row
-    csv_writer.writerow(['Phone Name', 'Image Link', 'Price', 'Expert Comment', 'Performance', 'Display', 'Camera', 'Battery'])
+    csv_writer.writerow(['Phone Name', 'Image Link 1', 'Image Link 2', 'Price', 'Expert Comment', 'Performance', 'Display', 'Camera', 'Battery'])
     
     # Write data rows
     csv_writer.writerows(merged_data)
