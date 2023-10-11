@@ -1,0 +1,449 @@
+6.8 inches (17.27 cm)
+501 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+200 + 12 + 10 + 10 MP Quad Primary Cameras
+LED Flash
+12 MP Front Camera
+5000 mAh
+Fast Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+460 PPI, OLED
+120 Hz Refresh Rate
+48 MP + 12 MP + 12 MP Triple Primary Cameras
+LED Flash
+12 MP Front Camera
+4323 mAh
+Fast Charging
+Lightning Port
+6.78 inches (17.22 cm)
+453 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 50 MP Triple Primary Cameras
+Dual-color LED Flash
+32 MP Front Camera
+4870 mAh
+Flash Charging
+USB Type-C Port
+6.73 inches (17.09 cm)
+521 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 50 MP + 50 MP Triple Primary Cameras
+Dual-color LED Flash
+32 MP Front Camera
+4820 mAh
+Fast Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+513 PPI, OLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 48 MP Triple Primary Cameras
+Dual LED Flash
+10.8 MP Front Camera
+5000 mAh
+Fast Charging
+USB Type-C Port
+6.8 inches (17.27 cm)
+403 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP Dual Primary Cameras
+LED Flash
+32 MP Front Camera
+4300 mAh
+Super VOOC Charging
+USB Type-C Port
+6.6 inches (16.76 cm)
+390 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 10 MP Triple Primary Cameras
+LED Flash
+12 MP Front Camera
+4700 mAh
+Fast Charging
+USB Type-C Port
+6.1 inches (15.49 cm)
+422 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 10 MP Triple Primary Cameras
+LED Flash
+12 MP Front Camera
+3900 mAh
+Fast Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+457 PPI, OLED
+120 Hz Refresh Rate
+12 MP + 12 MP + 12 MP Triple Primary Cameras
+Dual LED Flash
+12 MP Front Camera
+4352 mAh
+Fast Charging
+Lightning Port
+7.6 inches (19.3 cm)
+373 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 10 MP Triple Primary Cameras
+LED Flash
+10 MP + 4 MP Dual Front Cameras
+4400 mAh
+Fast Charging
+USB Type-C Port
+6.8 inches (17.27 cm)
+501 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+108 + 12 + 10 + 10 MP Quad Primary Cameras
+LED Flash
+40 MP Front Camera
+5000 mAh
+Fast Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+518 PPI, AMOLED
+120 Hz Refresh Rate
+50 + 48 + 12 + 8 MP Quad Primary Cameras
+LED Flash
+32 MP Front Camera
+4700 mAh
+Flash Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+526 PPI, Super Fluid AMOLED
+120 Hz Refresh Rate
+50 MP + 48 MP + 32 MP Triple Primary Cameras
+Dual LED Flash
+16 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.74 inches (17.12 cm)
+451 PPI, Super Fluid AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.74 inches (17.12 cm)
+451 PPI, AMOLED
+120Hz LTPS dynamic Refresh Rate
+50 MP + 8 MP + 64 MP Triple Primary Cameras
+LED Flash
+32MP Front Camera
+4700 mAh
+SuperVOOC™ Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+394 PPI, AMOLED
+120 Hz Refresh Rate
+200 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+32 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+457 PPI, OLED
+60 Hz Refresh Rate
+12 MP + 12 MP Dual Primary Cameras
+LED Flash
+12 MP Front Camera
+4325 mAh
+Fast Charging
+Lightning Port
+6.7 inches (17.02 cm)
+426 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+12 MP + 12 MP Dual Primary Cameras
+LED Flash
+10 MP Front Camera
+3700 mAh
+Fast Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+518 PPI, AMOLED
+144 Hz Refresh Rate
+50 MP + 13 MP + 8 MP Triple Primary Cameras
+Dual LED Flash
+16 MP Front Camera
+5000 mAh
+Flash Charging
+USB Type-C Port
+6.74 inches (17.12 cm)
+451 PPI, Super Fluid AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.73 inches (17.09 cm)
+521 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 50 MP + 50 MP Triple Primary Cameras
+Dual-color LED Flash
+32 MP Front Camera
+4600 mAh
+Hyper Charging 4.0
+USB Type-C Port
+6.78 inches (17.22 cm)
+388 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Flash Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+526 PPI, Fluid AMOLED
+120 Hz Refresh Rate
+48 MP + 50 MP + 8 MP Triple Primary Cameras
+Dual LED Flash
+32 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.6 inches (16.76 cm)
+390 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 10 MP Triple Primary Cameras
+LED Flash
+10 MP Front Camera
+4500 mAh
+Fast Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+388 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 12 MP + 12 MP Triple Primary Cameras
+LED Flash
+32 MP Front Camera
+4500 mAh
+Fast Charging
+USB Type-C Port
+7.6 inches (19.3 cm)
+372 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+12 MP + 12 MP + 12 MP Triple Primary Cameras
+LED Flash
+10 MP + 4 MP Dual Front Cameras
+4400 mAh
+Fast Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+426 PPI, Dynamic AMOLED
+120 Hz Refresh Rate
+12 MP + 12 MP Dual Primary Cameras
+LED Flash
+10 MP Front Camera
+3300 mAh
+Fast Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+518 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 50 MP + 16 MP Triple Primary Cameras
+Dual LED Flash
+16 MP Front Camera
+4700 mAh
+Flash Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+518 PPI, AMOLED
+120 Hz Refresh Rate
+50 + 48 + 12 + 8 MP Quad Primary Cameras
+Dual-color LED Flash
+32 MP Front Camera
+4500 mAh
+Flash Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+388 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 13 MP + 12 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4700 mAh
+Flash Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+394 PPI, Fluid AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4800 mAh
+Super VOOC Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+526 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 50 MP + 2 MP Triple Primary Cameras
+Dual LED Flash
+32 MP Front Camera
+5000 mAh
+Super Dart Charging
+USB Type-C Port
+6.1 inches (15.49 cm)
+457 PPI, OLED
+60 Hz Refresh Rate
+12 MP + 12 MP Dual Primary Cameras
+Dual LED Flash
+12 MP Front Camera
+3227 mAh
+Fast Charging
+Lightning Port
+6.7 inches (17.02 cm)
+394 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4500 mAh
+Super Dart Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+394 PPI, Fluid AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+Dual LED Flash
+16 MP Front Camera
+5000 mAh
+Super VOOC Charging
+USB Type-C Port
+6.67 inches (16.94 cm)
+395 PPI, AMOLED
+120 Hz Refresh Rate
+64 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+20 MP Front Camera
+4500 mAh
+Sonic Charging
+USB Type-C Port
+6.7 inches (17.02 cm)
+394 PPI, AMOLED
+120 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+32 MP Front Camera
+4500 mAh
+Super VOOC Charging
+USB Type-C Port
+6.78 inches (17.22 cm)
+395 PPI, AMOLED
+144 Hz Refresh Rate
+64 MP + 13 MP + 5 MP Triple Primary Cameras
+LED Flash
+24 MP Front Camera
+6000 mAh
+Hyper Charging
+USB Type-C Port
+6.62 inches (16.81 cm)
+398 PPI, AMOLED
+120 Hz Refresh Rate
+48 MP + 13 MP + 13 MP Triple Primary Cameras
+Dual-color LED Flash
+16 MP Front Camera
+4000 mAh
+Flash Charging
+USB Type-C Port
+6.43 inches (16.33 cm)
+409 PPI, Super AMOLED
+120 Hz Refresh Rate
+64 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4500 mAh
+Super Dart Charging
+USB Type-C Port
+6.4 inches (16.26 cm)
+411 PPI, Super AMOLED
+90 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4500 mAh
+Super Dart Charging
+USB Type-C Port
+6.62 inches (16.81 cm)
+398 PPI, AMOLED
+120 Hz Refresh Rate
+64 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Super Dart Charging
+USB Type-C Port
+6.43 inches (16.33 cm)
+409 PPI, Super AMOLED
+120 Hz Refresh Rate
+64 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4500 mAh
+Super Dart Charging
+USB Type-C Port
+6.43 inches (16.33 cm)
+409 PPI, Fluid AMOLED
+90 Hz Refresh Rate
+50 MP + 8 MP + 2 MP Triple Primary Cameras
+Dual LED Flash
+32 MP Front Camera
+4500 mAh
+Warp Charging
+USB Type-C Port
+6.44 inches (16.36 cm)
+409 PPI, AMOLED
+90 Hz Refresh Rate
+64 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+4700 mAh
+Flash Charging
+USB Type-C Port
+6.67 inches (16.94 cm)
+395 PPI, AMOLED
+120 Hz Refresh Rate
+108 MP + 8 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Turbo Charging
+USB Type-C Port
+6.6 inches (16.76 cm)
+400 PPI, IPS LCD
+144 Hz Refresh Rate
+48 MP + 2 MP + 2 MP Triple Primary Cameras
+LED Flash
+16 MP Front Camera
+5000 mAh
+Dart Charging
+USB Type-C Port
+6.53 inches (16.59 cm)
+395 PPI, IPS LCD
+60 Hz Refresh Rate
+13 + 8 + 5 + 2 MP Quad Primary Cameras
+LED Flash
+8 MP Front Camera
+5020 mAh
+Fast Charging
+USB Type-C Port
+6.5 inches (16.51 cm)
+270 PPI, IPS LCD
+12 MP + 2 MP Dual Primary Cameras
+LED Flash
+5 MP Front Camera
+5000 mAh
+No Quick Charging
+Micro-USB Port
+6.53 inches (16.59 cm)
+269 PPI, IPS LCD
+13 MP Primary Camera
+LED Flash
+5 MP Front Camera
+5000 mAh
+Micro-USB Port
+Non-Removable
+[['Octa core (3.36 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '12 GB RAM'], ['Hexa Core (3.46 GHz, Dual Core + 2.02 GHz, Quad core)', 'Apple A16 Bionic', '6 GB RAM'], ['Octa core (3.05 GHz, Single Core + 2.85 GHz, Tri core + 1.8 GHz, Quad core)', 'MediaTek Dimensity 9200', '12 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '12 GB RAM'], ['Octa core (2.85 GHz, Dual Core + 2.35 GHz, Dual core + 1.8 GHz, Quad core)', 'Google Tensor G2', '12 GB RAM'], ['Octa core (3.2 GHz, Single Core + 3 GHz, Tri core + 1.8 GHz, Quad core)', 'MediaTek Dimensity 9000 Plus', '8 GB RAM'], ['Octa core (3.36 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '8 GB RAM'], ['Octa core (3.36 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '8 GB RAM'], ['Hexa Core (3.23 GHz, Dual Core + 1.82 GHz, Quad core)', 'Apple A15 Bionic', '6 GB RAM'], ['Octa core (3.18 GHz, Single Core + 2.7 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '12 GB RAM'], ['Octa core (3 GHz, Single Core + 2.4 GHz, Tri core + 1.7 GHz, Quad core)', 'Snapdragon 8 Gen 1', '12 GB RAM'], ['Octa core (3 GHz, Single Core + 2.5 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 8 Gen 1', '12 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '8 GB RAM'], ['Octa core (3.05 GHz, Single Core + 2.85 GHz, Tri core + 1.8 GHz, Quad core)', 'MediaTek Dimensity 9000', '8 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '12GB RAM + 256GB ROM'], ['Octa core (2.6 GHz, Dual Core + 2 GHz, Hexa Core)', 'MediaTek Dimensity 7050', '8 GB RAM'], ['Hexa Core (3.23 GHz, Dual Core + 1.82 GHz, Quad core)', 'Apple A15 Bionic', '6 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '8 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.8 GHz, Quad core + 2 GHz, Tri core)', 'Snapdragon 8 Gen 2', '8 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.5 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 8 Gen 1', '8 GB RAM'], ['Octa core (3.19 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.5 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 8 Gen 1', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.4 GHz, Tri core + 1.7 GHz, Quad core)', 'Snapdragon 8 Gen 1', '8 GB RAM'], ['Octa core (3.05 GHz, Single Core + 2.85 GHz, Tri core)', 'MediaTek Dimensity 9000', '8 GB RAM'], ['Octa core (2.84 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888', '12 GB RAM'], ['Octa core (2.84 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.5 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 8 Gen 1', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888 Plus', '12 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '8 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.75 GHz, Tri core + 2 GHz, Quad core)', 'Snapdragon 8 Plus Gen 1', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.5 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 8 Gen 1', '8 GB RAM'], ['Hexa Core (3.23 GHz, Dual Core + 1.82 GHz, Quad core)', 'Apple A15 Bionic', '4 GB RAM'], ['Octa core (2.85 GHz, Quad Core + 2 GHz, Quad core)', 'MediaTek Dimensity 8100', '12 GB RAM'], ['Octa core (2.85 GHz, Quad Core + 2 GHz, Quad core)', 'MediaTek Dimensity 8100 Max', '8 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 870', '6 GB RAM'], ['Octa core (2.85 GHz, Quad Core + 2 GHz, Quad core)', 'MediaTek Dimensity 8100 Max', '12 GB RAM'], ['Octa core (2.84 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888', '8 GB RAM'], ['Octa core (2.4 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888', '8 GB RAM'], ['Octa core (2.42 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 888', '8 GB RAM'], ['Octa core (2.5 GHz, Dual Core + 2 GHz, Hexa Core)', 'MediaTek Dimensity 920', '6 GB RAM'], ['Octa core (3.2 GHz, Single Core + 2.42 GHz, Tri core + 1.8 GHz, Quad core)', 'Snapdragon 870', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.6 GHz, Tri core + 2 GHz, Quad core)', 'MediaTek Dimensity 1200', '8 GB RAM'], ['Octa core (3 GHz, Single Core + 2.6 GHz, Tri core + 2 GHz, Quad core)', 'MediaTek Dimensity 1200', '8 GB RAM'], ['Octa core (2.4 GHz, Single Core + 2.2 GHz, Tri core + 1.9 GHz, Quad core)', 'Snapdragon 778G', '6 GB RAM'], ['Octa core (2.2 GHz, Dual Core + 1.7 GHz, Hexa Core)', 'Snapdragon 695', '6 GB RAM'], ['Octa core (2.4 GHz, Single Core + 2.2 GHz, Tri core + 1.9 GHz, Quad core)', 'Snapdragon 778G', '6 GB RAM'], ['Octa core (2 GHz, Dual Core + 1.8 GHz, Hexa Core)', 'MediaTek Helio G80', '4 GB RAM'], ['Octa core (2 GHz, Dual Core + 1.7 GHz, Hexa Core)', 'MediaTek Helio G70', '3 GB RAM'], ['Octa core (2 GHz, Quad Core + 1.5 GHz, Quad core)', 'MediaTek Helio G25', '2 GB RAM']]

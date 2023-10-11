@@ -1,0 +1,18 @@
+{% extends "../base/base.html" %}
+
+{% block title %} Index page {% endblock %}
+
+{% block template %}
+{% include "../base/navbar.html" %}
+{% include "../description/components/splash.html" %}
+
+<div class="container pt-5">
+    <div class="col text-center py-1 py-md-5">
+        <h2 class="display-4"> Trending Right Now...</h2>
+    </div>
+    <div class="row">
+            {% include "../description/components/item-list-elements.html" %}
+    </div>
+</div>
+
+{% endblock %}
